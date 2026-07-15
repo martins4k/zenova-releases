@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/martins4k/zenova-releases/releases/download/v1.0.0/ZenovaOptimizerSetup-1.0.0.exe",
-  "sha256": "",
-  "mandatory": false,
-  "minimumSupportedVersion": "",
-  "notes": "Prima versione pubblicata."
+    "version":  "1.0.1",
+    "downloadUrl":  "https://github.com/martins4k/zenova-releases/releases/download/v1.0.1/ZenovaOptimizerSetup-1.0.1.exe",
+    "sha256":  "242dc8879ef0f0d2e82581f21a264bd496e3ab94f82505b23af66c6bcd34b4e6",
+    "mandatory":  false,
+    "minimumSupportedVersion":  "",
+    "notes":  "Aggiornamento automatico in-app: ora puoi aggiornare Zenova Optimizer con un click direttamente dalla Safety Center, con verifica di sicurezza del file scaricato prima dell\u0027installazione. Corretto il calcolo dello spazio liberato dalla Pulizia File Temporanei, ora preciso anche per le sottocartelle."
 }
